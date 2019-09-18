@@ -16,20 +16,5 @@ FPGA的核心优点：可编程灵活性高、开发周期短、并行计算可�
 
 FPGA 市场四大巨头： Xilinx（赛灵思）、Altera（阿尔特拉）、Lattice（莱迪思）、Microsemi(美高森美)
 
-[![sites](docs/altera.png)](http://www.qitas.cn)   
 
----
-
-### [更多内核架构](https://github.com/sochub)
-
-#### [51](https://github.com/sochub/MCS-51)
-#### [ARM](https://github.com/sochub/ARM)
-#### [X86](https://github.com/sochub/X86)
-#### [MIPS](https://github.com/sochub/MIPS)
-#### [RISC-V](https://github.com/sochub/RISC-V)
-
----
-
-###  [SoC开发平台](http://www.qitas.cn)   
-
-###  qitas@qitas.cn
+##  [SoC资源平台](http://www.qitas.cn)  
