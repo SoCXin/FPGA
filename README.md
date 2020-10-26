@@ -1,8 +1,8 @@
-﻿# [FPGA](https://github.com/sochub/FPGA)
+﻿# [FPGA](https://github.com/SoCXin/FPGA)
 
-[![sites](SoC/SoC.png)](http://www.qitas.cn) 
+[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-## [描述](https://github.com/sochub/FPGA/wiki) 
+## [FPGA简介](https://github.com/SoCXin/FPGA/wiki)
 
 FPGA（Field－Programmable Gate Array），现场可编程门阵列，硬件编程，在多功能性和能力方面FPGA介于微控制器(MCUs)和ASICs之间。
 
@@ -14,7 +14,6 @@ FPGA的核心优点：可编程灵活性高、开发周期短、并行计算可�
 
 目前制约FPGA发展的三大因素主要有：成本、功耗和编程设计。
 
-FPGA 市场四大巨头： Xilinx（赛灵思）、Altera（阿尔特拉）、Lattice（莱迪思）、Microsemi(美高森美)
+FPGA四巨头： Xilinx（赛灵思）、Altera（阿尔特拉）、Lattice（莱迪思）、Microsemi(美高森美)
 
-
-##  [SoC资源平台](http://www.qitas.cn)  
+###  [SoC芯平台](http://www.SoC.Xin)
